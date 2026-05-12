@@ -1,0 +1,9 @@
+# XAMPP / PHP .gitignore
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+/vendor/
+.env
+config.php.bak
